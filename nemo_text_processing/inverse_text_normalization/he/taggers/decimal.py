@@ -19,6 +19,7 @@ from nemo_text_processing.inverse_text_normalization.he.graph_utils import (
     MINUS,
     NEMO_DIGIT,
     GraphFst,
+    delete_and,
     delete_extra_space,
     delete_space,
     insert_space,

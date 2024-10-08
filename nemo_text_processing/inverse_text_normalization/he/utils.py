@@ -30,7 +30,6 @@ tens_dict = {"2": "עשרים", "3": "שלושים", "4": "ארבעים", "5": "
 
 ten = {"short": "עשר", "long": "עשרה"}  # double pronunciation: short is 'eser' and 'asar', long is 'esre' and 'asara'
 
-
 #############
 # FUNCTIONS #
 #############
